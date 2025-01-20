@@ -2,7 +2,8 @@ README: Ephemeris Binding Generator Script
 
 Overview
 
-This script automates the process of fetching, compiling, and setting up the correct filesystem for the Swiss Ephemeris C library directly within your Rust project. It turns one of the most tedious parts of the workflow into a joke—background noise you no longer need to think about—while providing a streamlined and transparent solution for integrating high-precision ephemeris data. Designed with performance and control in mind, it provides a streamlined and transparent solution for integrating high-precision ephemeris data into your Rust projects.
+This script automates the process of fetching, compiling, and setting up the correct filesystem for the Swiss Ephemeris C library directly within your Rust project. It turns one of the most tedious parts of the workflow into background noise while you think about frontend.
+Designed with performance and control in mind, it provides a streamlined and transparent solution for integrating high-precision ephemeris data into your Rust projects.
 
 Why Use This Script?
 
