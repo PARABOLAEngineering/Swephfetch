@@ -8,7 +8,7 @@ Why Use This Script?
 
 1. Unmatched Performance
 
-Unlike many bloated and limited ephemeris crates, this script ensures you work directly with the native Swiss Ephemeris library. By avoiding unnecessary overhead and intermediary layers, you unlock the maximum speed and efficiency for your computations.
+Unlike many bloated and limited ephemeris crates, this script ensures you work directly with the native Swiss Ephemeris library. By avoiding unnecessary overhead and intermediary layers, you unlock the maximum speed and efficiency for your computations, as well as remaining free of high-level abstractions that may not be appropriate for more advanced use cases. 
 
 2. Ultimate Control
 
@@ -30,7 +30,7 @@ Fully automated setup: Fetches the Swiss Ephemeris source files, compiles the li
 
 Customizable filesystem structure: You could extend the script to create any other files and folders you want, automatically.
 
-
+Reliability: while third-party crates may be released and never updated again, this script is always up to date-- if you need to update your ephemeris, just delete the old ephemeris folder and bindings, and run swephtamer again. 
 How to Use
 
 Clone this repository: $ git clone https://github.com/PARABOLAengineering/swephfetch
